@@ -1,0 +1,13 @@
+certifi==2019.9.11
+cffi==1.13.0
+cryptography==2.8
+Django==2.2.5
+ecdsa==0.13.3
+future==0.18.1
+pyasn1==0.4.7
+pycparser==2.19
+python-jose==3.0.1
+pytz==2019.3
+rsa==4.0
+six==1.12.0
+sqlparse==0.3.0
