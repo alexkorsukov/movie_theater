@@ -1,6 +1,6 @@
 # Movie Theater
 
-## Link to the shared postman collection
+## Link to the shared Postman collection
 [https://www.getpostman.com/collections/4d3268621ca6bc98d550]
 
 ## Requirements
