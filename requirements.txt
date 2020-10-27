@@ -1,6 +1,6 @@
 certifi==2019.9.11
 cffi==1.13.0
-cryptography==2.8
+cryptography==3.2
 Django==2.2.8
 ecdsa==0.13.3
 future==0.18.1
