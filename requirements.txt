@@ -1,7 +1,7 @@
 certifi==2019.9.11
 cffi==1.13.0
 cryptography==2.8
-Django==2.2.8
+Django==2.2.20
 ecdsa==0.13.3
 future==0.18.1
 pyasn1==0.4.7
